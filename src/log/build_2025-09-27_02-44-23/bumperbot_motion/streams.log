@@ -1,0 +1,44 @@
+[0.018s] Invoking command in '/home/mudit/bumperbot_ws/src/build/bumperbot_motion': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mudit/ros2_ws/install/rover_teleop:/home/mudit/ros2_ws/install/rover_motor_controller:/home/mudit/ros2_rover_ws/install/rover_teleop:/home/mudit/ros2_rover_ws/install/rover_motor_controller:/opt/ros/humble /home/mudit/.local/bin/cmake --build /home/mudit/bumperbot_ws/src/build/bumperbot_motion -- -j28 -l28
+[0.057s] Built target ament_cmake_python_copy_bumperbot_motion
+[0.209s] running egg_info
+[0.209s] writing bumperbot_motion.egg-info/PKG-INFO
+[0.209s] writing dependency_links to bumperbot_motion.egg-info/dependency_links.txt
+[0.209s] writing top-level names to bumperbot_motion.egg-info/top_level.txt
+[0.211s] reading manifest file 'bumperbot_motion.egg-info/SOURCES.txt'
+[0.211s] writing manifest file 'bumperbot_motion.egg-info/SOURCES.txt'
+[0.226s] Built target ament_cmake_python_build_bumperbot_motion_egg
+[0.253s] Invoked command in '/home/mudit/bumperbot_ws/src/build/bumperbot_motion' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mudit/ros2_ws/install/rover_teleop:/home/mudit/ros2_ws/install/rover_motor_controller:/home/mudit/ros2_rover_ws/install/rover_teleop:/home/mudit/ros2_rover_ws/install/rover_motor_controller:/opt/ros/humble /home/mudit/.local/bin/cmake --build /home/mudit/bumperbot_ws/src/build/bumperbot_motion -- -j28 -l28
+[0.254s] Invoking command in '/home/mudit/bumperbot_ws/src/build/bumperbot_motion': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mudit/ros2_ws/install/rover_teleop:/home/mudit/ros2_ws/install/rover_motor_controller:/home/mudit/ros2_rover_ws/install/rover_teleop:/home/mudit/ros2_rover_ws/install/rover_motor_controller:/opt/ros/humble /home/mudit/.local/bin/cmake --install /home/mudit/bumperbot_ws/src/build/bumperbot_motion
+[0.274s] -- Install configuration: ""
+[0.274s] -- Up-to-date: /home/mudit/bumperbot_ws/src/install/bumperbot_motion/share/bumperbot_motion/environment/pythonpath.sh
+[0.274s] -- Up-to-date: /home/mudit/bumperbot_ws/src/install/bumperbot_motion/share/bumperbot_motion/environment/pythonpath.dsv
+[0.274s] -- Up-to-date: /home/mudit/bumperbot_ws/src/install/bumperbot_motion/local/lib/python3.10/dist-packages/bumperbot_motion-0.0.0-py3.10.egg-info
+[0.274s] -- Installing: /home/mudit/bumperbot_ws/src/install/bumperbot_motion/local/lib/python3.10/dist-packages/bumperbot_motion-0.0.0-py3.10.egg-info/dependency_links.txt
+[0.275s] -- Installing: /home/mudit/bumperbot_ws/src/install/bumperbot_motion/local/lib/python3.10/dist-packages/bumperbot_motion-0.0.0-py3.10.egg-info/top_level.txt
+[0.275s] -- Installing: /home/mudit/bumperbot_ws/src/install/bumperbot_motion/local/lib/python3.10/dist-packages/bumperbot_motion-0.0.0-py3.10.egg-info/SOURCES.txt
+[0.275s] -- Installing: /home/mudit/bumperbot_ws/src/install/bumperbot_motion/local/lib/python3.10/dist-packages/bumperbot_motion-0.0.0-py3.10.egg-info/PKG-INFO
+[0.275s] -- Up-to-date: /home/mudit/bumperbot_ws/src/install/bumperbot_motion/local/lib/python3.10/dist-packages/bumperbot_motion
+[0.275s] -- Up-to-date: /home/mudit/bumperbot_ws/src/install/bumperbot_motion/local/lib/python3.10/dist-packages/bumperbot_motion/a_star_planner.py
+[0.275s] -- Up-to-date: /home/mudit/bumperbot_ws/src/install/bumperbot_motion/local/lib/python3.10/dist-packages/bumperbot_motion/pd_motion_planner.py
+[0.275s] -- Up-to-date: /home/mudit/bumperbot_ws/src/install/bumperbot_motion/local/lib/python3.10/dist-packages/bumperbot_motion/__init__.py
+[0.275s] -- Up-to-date: /home/mudit/bumperbot_ws/src/install/bumperbot_motion/local/lib/python3.10/dist-packages/bumperbot_motion/pure_pursuit.py
+[0.300s] Listing '/home/mudit/bumperbot_ws/src/install/bumperbot_motion/local/lib/python3.10/dist-packages/bumperbot_motion'...
+[0.303s] -- Up-to-date: /home/mudit/bumperbot_ws/src/install/bumperbot_motion/lib/bumperbot_motion/pd_motion_planner.py
+[0.303s] -- Up-to-date: /home/mudit/bumperbot_ws/src/install/bumperbot_motion/lib/bumperbot_motion/a_star_planner.py
+[0.303s] -- Up-to-date: /home/mudit/bumperbot_ws/src/install/bumperbot_motion/lib/bumperbot_motion/pure_pursuit.py
+[0.303s] -- Up-to-date: /home/mudit/bumperbot_ws/src/install/bumperbot_motion/share/ament_index/resource_index/package_run_dependencies/bumperbot_motion
+[0.303s] -- Up-to-date: /home/mudit/bumperbot_ws/src/install/bumperbot_motion/share/ament_index/resource_index/parent_prefix_path/bumperbot_motion
+[0.303s] -- Up-to-date: /home/mudit/bumperbot_ws/src/install/bumperbot_motion/share/bumperbot_motion/environment/ament_prefix_path.sh
+[0.304s] -- Up-to-date: /home/mudit/bumperbot_ws/src/install/bumperbot_motion/share/bumperbot_motion/environment/ament_prefix_path.dsv
+[0.304s] -- Up-to-date: /home/mudit/bumperbot_ws/src/install/bumperbot_motion/share/bumperbot_motion/environment/path.sh
+[0.304s] -- Up-to-date: /home/mudit/bumperbot_ws/src/install/bumperbot_motion/share/bumperbot_motion/environment/path.dsv
+[0.304s] -- Up-to-date: /home/mudit/bumperbot_ws/src/install/bumperbot_motion/share/bumperbot_motion/local_setup.bash
+[0.304s] -- Up-to-date: /home/mudit/bumperbot_ws/src/install/bumperbot_motion/share/bumperbot_motion/local_setup.sh
+[0.304s] -- Up-to-date: /home/mudit/bumperbot_ws/src/install/bumperbot_motion/share/bumperbot_motion/local_setup.zsh
+[0.304s] -- Up-to-date: /home/mudit/bumperbot_ws/src/install/bumperbot_motion/share/bumperbot_motion/local_setup.dsv
+[0.304s] -- Installing: /home/mudit/bumperbot_ws/src/install/bumperbot_motion/share/bumperbot_motion/package.dsv
+[0.304s] -- Up-to-date: /home/mudit/bumperbot_ws/src/install/bumperbot_motion/share/ament_index/resource_index/packages/bumperbot_motion
+[0.304s] -- Up-to-date: /home/mudit/bumperbot_ws/src/install/bumperbot_motion/share/bumperbot_motion/cmake/bumperbot_motionConfig.cmake
+[0.304s] -- Up-to-date: /home/mudit/bumperbot_ws/src/install/bumperbot_motion/share/bumperbot_motion/cmake/bumperbot_motionConfig-version.cmake
+[0.304s] -- Up-to-date: /home/mudit/bumperbot_ws/src/install/bumperbot_motion/share/bumperbot_motion/package.xml
+[0.446s] Invoked command in '/home/mudit/bumperbot_ws/src/build/bumperbot_motion' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mudit/ros2_ws/install/rover_teleop:/home/mudit/ros2_ws/install/rover_motor_controller:/home/mudit/ros2_rover_ws/install/rover_teleop:/home/mudit/ros2_rover_ws/install/rover_motor_controller:/opt/ros/humble /home/mudit/.local/bin/cmake --install /home/mudit/bumperbot_ws/src/build/bumperbot_motion

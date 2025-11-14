@@ -1,0 +1,21 @@
+running develop
+running egg_info
+creating bumperbot_world.egg-info
+writing bumperbot_world.egg-info/PKG-INFO
+writing dependency_links to bumperbot_world.egg-info/dependency_links.txt
+writing entry points to bumperbot_world.egg-info/entry_points.txt
+writing requirements to bumperbot_world.egg-info/requires.txt
+writing top-level names to bumperbot_world.egg-info/top_level.txt
+writing manifest file 'bumperbot_world.egg-info/SOURCES.txt'
+reading manifest file 'bumperbot_world.egg-info/SOURCES.txt'
+writing manifest file 'bumperbot_world.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/mudit/bumperbot_ws/install/bumperbot_world/lib/python3.10/site-packages/bumperbot-world.egg-link (link to .)
+
+Installed /home/mudit/bumperbot_ws/build/bumperbot_world
+running symlink_data
+creating /home/mudit/bumperbot_ws/install/bumperbot_world/share/ament_index
+creating /home/mudit/bumperbot_ws/install/bumperbot_world/share/ament_index/resource_index
+creating /home/mudit/bumperbot_ws/install/bumperbot_world/share/ament_index/resource_index/packages
+symbolically linking /home/mudit/bumperbot_ws/build/bumperbot_world/resource/bumperbot_world -> /home/mudit/bumperbot_ws/install/bumperbot_world/share/ament_index/resource_index/packages
+symbolically linking /home/mudit/bumperbot_ws/build/bumperbot_world/package.xml -> /home/mudit/bumperbot_ws/install/bumperbot_world/share/bumperbot_world

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<sdf version="1.6">
+  <model name="warehouse">
+    <static>true</static>  <!-- keeps it fixed -->
+    <link name="warehouse_link">
+      <visual name="visual">
+        <geometry>
+          <mesh>
+            <uri>model://warehouse/meshes/warehouse.stl</uri>
+          </mesh>
+        </geometry>
+      </visual>
+      <collision name="collision">
+        <geometry>
+          <mesh>
+            <uri>model://warehouse/meshes/warehouse.stl</uri>
+          </mesh>
+        </geometry>
+      </collision>
+    </link>
+  </model>
+</sdf>

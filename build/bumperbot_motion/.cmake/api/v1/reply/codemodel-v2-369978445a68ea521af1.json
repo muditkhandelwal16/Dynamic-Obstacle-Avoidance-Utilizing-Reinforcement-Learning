@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-f5d668366319a31b7667.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "bumperbot_motion",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_bumperbot_motion_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_bumperbot_motion_egg-b23054fc53dac81b37b0.json",
+					"name" : "ament_cmake_python_build_bumperbot_motion_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_symlink_bumperbot_motion::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_symlink_bumperbot_motion-3a32c0f17f4f048b51e1.json",
+					"name" : "ament_cmake_python_symlink_bumperbot_motion",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bumperbot_motion_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bumperbot_motion_uninstall-9c8cf41acffcdd20424b.json",
+					"name" : "bumperbot_motion_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-535be700a95c493942ce.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/mudit/bumperbot_ws/build/bumperbot_motion",
+		"source" : "/home/mudit/bumperbot_ws/src/bumperbot_motion"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

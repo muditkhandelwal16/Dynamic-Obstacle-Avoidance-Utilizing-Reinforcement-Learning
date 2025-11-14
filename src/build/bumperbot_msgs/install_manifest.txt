@@ -1,0 +1,15 @@
+/home/mudit/bumperbot_ws/src/install/bumperbot_msgs/share/ament_index/resource_index/package_run_dependencies/bumperbot_msgs
+/home/mudit/bumperbot_ws/src/install/bumperbot_msgs/share/ament_index/resource_index/parent_prefix_path/bumperbot_msgs
+/home/mudit/bumperbot_ws/src/install/bumperbot_msgs/share/bumperbot_msgs/environment/ament_prefix_path.sh
+/home/mudit/bumperbot_ws/src/install/bumperbot_msgs/share/bumperbot_msgs/environment/ament_prefix_path.dsv
+/home/mudit/bumperbot_ws/src/install/bumperbot_msgs/share/bumperbot_msgs/environment/path.sh
+/home/mudit/bumperbot_ws/src/install/bumperbot_msgs/share/bumperbot_msgs/environment/path.dsv
+/home/mudit/bumperbot_ws/src/install/bumperbot_msgs/share/bumperbot_msgs/local_setup.bash
+/home/mudit/bumperbot_ws/src/install/bumperbot_msgs/share/bumperbot_msgs/local_setup.sh
+/home/mudit/bumperbot_ws/src/install/bumperbot_msgs/share/bumperbot_msgs/local_setup.zsh
+/home/mudit/bumperbot_ws/src/install/bumperbot_msgs/share/bumperbot_msgs/local_setup.dsv
+/home/mudit/bumperbot_ws/src/install/bumperbot_msgs/share/bumperbot_msgs/package.dsv
+/home/mudit/bumperbot_ws/src/install/bumperbot_msgs/share/ament_index/resource_index/packages/bumperbot_msgs
+/home/mudit/bumperbot_ws/src/install/bumperbot_msgs/share/bumperbot_msgs/cmake/bumperbot_msgsConfig.cmake
+/home/mudit/bumperbot_ws/src/install/bumperbot_msgs/share/bumperbot_msgs/cmake/bumperbot_msgsConfig-version.cmake
+/home/mudit/bumperbot_ws/src/install/bumperbot_msgs/share/bumperbot_msgs/package.xml

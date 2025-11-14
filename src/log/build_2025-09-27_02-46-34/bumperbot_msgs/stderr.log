@@ -1,0 +1,23 @@
+In file included from [01m[K/home/mudit/bumperbot_ws/src/build/bumperbot_msgs/rosidl_generator_py/bumperbot_msgs/_bumperbot_msgs_s.ep.rosidl_typesupport_introspection_c.c:648[m[K:
+[01m[K/home/mudit/bumperbot_ws/src/build/bumperbot_msgs/rosidl_generator_c/bumperbot_msgs/action/detail/fibonacci__struct.h:88:10:[m[K [01;31m[Kfatal error: [m[Kunique_identifier_msgs/msg/detail/uuid__struct.h: No such file or directory
+   88 | #include [01;31m[K"unique_identifier_msgs/msg/detail/uuid__struct.h"[m[K
+      |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+compilation terminated.
+In file included from [01m[K/home/mudit/bumperbot_ws/src/build/bumperbot_msgs/rosidl_generator_py/bumperbot_msgs/_bumperbot_msgs_s.ep.rosidl_typesupport_c.c:648[m[K:
+[01m[K/home/mudit/bumperbot_ws/src/build/bumperbot_msgs/rosidl_generator_c/bumperbot_msgs/action/detail/fibonacci__struct.h:88:10:[m[K [01;31m[Kfatal error: [m[Kunique_identifier_msgs/msg/detail/uuid__struct.h: No such file or directory
+   88 | #include [01;31m[K"unique_identifier_msgs/msg/detail/uuid__struct.h"[m[K
+      |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+compilation terminated.
+In file included from [01m[K/home/mudit/bumperbot_ws/src/build/bumperbot_msgs/rosidl_generator_py/bumperbot_msgs/_bumperbot_msgs_s.ep.rosidl_typesupport_fastrtps_c.c:648[m[K:
+[01m[K/home/mudit/bumperbot_ws/src/build/bumperbot_msgs/rosidl_generator_c/bumperbot_msgs/action/detail/fibonacci__struct.h:88:10:[m[K [01;31m[Kfatal error: [m[Kunique_identifier_msgs/msg/detail/uuid__struct.h: No such file or directory
+   88 | #include [01;31m[K"unique_identifier_msgs/msg/detail/uuid__struct.h"[m[K
+      |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+compilation terminated.
+gmake[2]: *** [CMakeFiles/bumperbot_msgs__rosidl_typesupport_introspection_c__pyext.dir/build.make:76: CMakeFiles/bumperbot_msgs__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/bumperbot_msgs/_bumperbot_msgs_s.ep.rosidl_typesupport_introspection_c.c.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:535: CMakeFiles/bumperbot_msgs__rosidl_typesupport_introspection_c__pyext.dir/all] Error 2
+gmake[1]: *** Waiting for unfinished jobs....
+gmake[2]: *** [CMakeFiles/bumperbot_msgs__rosidl_typesupport_c__pyext.dir/build.make:76: CMakeFiles/bumperbot_msgs__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/bumperbot_msgs/_bumperbot_msgs_s.ep.rosidl_typesupport_c.c.o] Error 1
+gmake[2]: *** [CMakeFiles/bumperbot_msgs__rosidl_typesupport_fastrtps_c__pyext.dir/build.make:76: CMakeFiles/bumperbot_msgs__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/bumperbot_msgs/_bumperbot_msgs_s.ep.rosidl_typesupport_fastrtps_c.c.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:505: CMakeFiles/bumperbot_msgs__rosidl_typesupport_fastrtps_c__pyext.dir/all] Error 2
+gmake[1]: *** [CMakeFiles/Makefile2:564: CMakeFiles/bumperbot_msgs__rosidl_typesupport_c__pyext.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

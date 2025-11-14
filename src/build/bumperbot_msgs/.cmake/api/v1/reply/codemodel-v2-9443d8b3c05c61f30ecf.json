@@ -1,0 +1,233 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-eff991cc8305f2b0804f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "bumperbot_msgs__py",
+					"jsonFile" : "directory-bumperbot_msgs__py-20e40eb972d3fe132116.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/mudit/bumperbot_ws/src/build/bumperbot_msgs/bumperbot_msgs__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "bumperbot_msgs",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_bumperbot_msgs_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_bumperbot_msgs_egg-0339992439f2b73e12da.json",
+					"name" : "ament_cmake_python_build_bumperbot_msgs_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_bumperbot_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_bumperbot_msgs-95148a50be4224d45cee.json",
+					"name" : "ament_cmake_python_copy_bumperbot_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bumperbot_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bumperbot_msgs-e5f56d9a27658ac1246e.json",
+					"name" : "bumperbot_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bumperbot_msgs__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bumperbot_msgs__cpp-6a6953364addff1491a7.json",
+					"name" : "bumperbot_msgs__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "bumperbot_msgs__py::@1de889eddad65f2f66e1",
+					"jsonFile" : "target-bumperbot_msgs__py-92ed87c8a6621d7b1d87.json",
+					"name" : "bumperbot_msgs__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bumperbot_msgs__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bumperbot_msgs__rosidl_generator_c-33b10b1821e4b69fe3d3.json",
+					"name" : "bumperbot_msgs__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bumperbot_msgs__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bumperbot_msgs__rosidl_generator_py-4586cd0089e78ad19840.json",
+					"name" : "bumperbot_msgs__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bumperbot_msgs__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bumperbot_msgs__rosidl_typesupport_c-6c3e0be455adbb523b15.json",
+					"name" : "bumperbot_msgs__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bumperbot_msgs__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bumperbot_msgs__rosidl_typesupport_c__pyext-bcbb8855e1c0c251c0bf.json",
+					"name" : "bumperbot_msgs__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bumperbot_msgs__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bumperbot_msgs__rosidl_typesupport_cpp-922e3fd3e8e6dbaa08f6.json",
+					"name" : "bumperbot_msgs__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bumperbot_msgs__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bumperbot_msgs__rosidl_typesupport_fastrtps_c-4aaabd46a86c1c620f58.json",
+					"name" : "bumperbot_msgs__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bumperbot_msgs__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bumperbot_msgs__rosidl_typesupport_fastrtps_c__pyext-9844a3876ceb79774948.json",
+					"name" : "bumperbot_msgs__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bumperbot_msgs__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bumperbot_msgs__rosidl_typesupport_fastrtps_cpp-5e46f163b4e47b11f2b4.json",
+					"name" : "bumperbot_msgs__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bumperbot_msgs__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bumperbot_msgs__rosidl_typesupport_introspection_c-0a4ebf634f759f5a76af.json",
+					"name" : "bumperbot_msgs__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bumperbot_msgs__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bumperbot_msgs__rosidl_typesupport_introspection_c__pyext-0ebeae95d46ea83e4c4f.json",
+					"name" : "bumperbot_msgs__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bumperbot_msgs__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bumperbot_msgs__rosidl_typesupport_introspection_cpp-695008ba6fdd9b50aae7.json",
+					"name" : "bumperbot_msgs__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bumperbot_msgs_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bumperbot_msgs_uninstall-974741203d9f537a67a1.json",
+					"name" : "bumperbot_msgs_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-413f37af4605af09b35f.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/mudit/bumperbot_ws/src/build/bumperbot_msgs",
+		"source" : "/home/mudit/bumperbot_ws/src/bumperbot_msgs"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

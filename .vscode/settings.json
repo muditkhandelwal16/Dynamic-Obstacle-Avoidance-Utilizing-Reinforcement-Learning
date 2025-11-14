@@ -1,0 +1,31 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/mudit/bumperbot_ws/install/bumperbot_py_examples/lib/python3.10/site-packages",
+        "/home/mudit/ros2_ws/build/rover_teleop",
+        "/home/mudit/ros2_ws/install/rover_teleop/lib/python3.10/site-packages",
+        "/home/mudit/ros2_ws/build/rover_motor_controller",
+        "/home/mudit/ros2_ws/install/rover_motor_controller/lib/python3.10/site-packages",
+        "/home/mudit/ros2_ws/install/rover_msgs/local/lib/python3.10/dist-packages",
+        "/home/mudit/ros2_rover_ws/install/rover_teleop/lib/python3.10/site-packages",
+        "/home/mudit/ros2_rover_ws/install/rover_motor_controller/lib/python3.10/site-packages",
+        "/home/mudit/ros2_rover_ws/install/rover_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/mudit/bumperbot_ws/install/bumperbot_py_examples/lib/python3.10/site-packages",
+        "/home/mudit/ros2_ws/build/rover_teleop",
+        "/home/mudit/ros2_ws/install/rover_teleop/lib/python3.10/site-packages",
+        "/home/mudit/ros2_ws/build/rover_motor_controller",
+        "/home/mudit/ros2_ws/install/rover_motor_controller/lib/python3.10/site-packages",
+        "/home/mudit/ros2_ws/install/rover_msgs/local/lib/python3.10/dist-packages",
+        "/home/mudit/ros2_rover_ws/install/rover_teleop/lib/python3.10/site-packages",
+        "/home/mudit/ros2_rover_ws/install/rover_motor_controller/lib/python3.10/site-packages",
+        "/home/mudit/ros2_rover_ws/install/rover_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "ros.distro": "humble",
+    "python.REPL.enableREPLSmartSend": false,
+    "github.copilot.chat.codeGeneration.useInstructionFiles": true
+}

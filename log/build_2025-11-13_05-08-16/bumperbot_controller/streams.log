@@ -1,0 +1,65 @@
+[0.031s] Invoking command in '/home/mudit/bumperbot_ws/build/bumperbot_controller': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mudit/bumperbot_ws/install/bumperbot_world:/home/mudit/bumperbot_ws/install/bumperbot_py_examples:/home/mudit/turtlebot3_ws/install/turtlebot3_teleop:/home/mudit/turtlebot3_ws/install/turtlebot3_example:/home/mudit/ros2_ws/install/rover_teleop:/home/mudit/ros2_ws/install/rover_motor_controller:/home/mudit/ros2_rover_ws/install/rover_teleop:/home/mudit/ros2_rover_ws/install/rover_motor_controller:/opt/ros/humble /home/mudit/.local/bin/cmake /home/mudit/bumperbot_ws/src/bumperbot_controller -DCMAKE_INSTALL_PREFIX=/home/mudit/bumperbot_ws/install/bumperbot_controller
+[0.058s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.134s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.141s] -- Found rclcpp: 16.0.14 (/opt/ros/humble/share/rclcpp/cmake)
+[0.167s] -- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.169s] -- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.173s] -- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.182s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.194s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.221s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.223s] -- Found rmw_fastrtps_cpp: 6.2.8 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.319s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.359s] -- Found rclpy: 3.3.17 (/opt/ros/humble/share/rclpy/cmake)
+[0.359s] -- Found geometry_msgs: 4.9.0 (/opt/ros/humble/share/geometry_msgs/cmake)
+[0.369s] -- Found sensor_msgs: 4.9.0 (/opt/ros/humble/share/sensor_msgs/cmake)
+[0.382s] -- Found nav_msgs: 4.9.0 (/opt/ros/humble/share/nav_msgs/cmake)
+[0.394s] -- Found tf2_ros: 0.25.16 (/opt/ros/humble/share/tf2_ros/cmake)
+[0.558s] -- Configuring done
+[0.561s] -- Generating done
+[0.564s] -- Build files have been written to: /home/mudit/bumperbot_ws/build/bumperbot_controller
+[0.574s] Invoked command in '/home/mudit/bumperbot_ws/build/bumperbot_controller' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mudit/bumperbot_ws/install/bumperbot_world:/home/mudit/bumperbot_ws/install/bumperbot_py_examples:/home/mudit/turtlebot3_ws/install/turtlebot3_teleop:/home/mudit/turtlebot3_ws/install/turtlebot3_example:/home/mudit/ros2_ws/install/rover_teleop:/home/mudit/ros2_ws/install/rover_motor_controller:/home/mudit/ros2_rover_ws/install/rover_teleop:/home/mudit/ros2_rover_ws/install/rover_motor_controller:/opt/ros/humble /home/mudit/.local/bin/cmake /home/mudit/bumperbot_ws/src/bumperbot_controller -DCMAKE_INSTALL_PREFIX=/home/mudit/bumperbot_ws/install/bumperbot_controller
+[0.574s] Invoking command in '/home/mudit/bumperbot_ws/build/bumperbot_controller': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mudit/bumperbot_ws/install/bumperbot_world:/home/mudit/bumperbot_ws/install/bumperbot_py_examples:/home/mudit/turtlebot3_ws/install/turtlebot3_teleop:/home/mudit/turtlebot3_ws/install/turtlebot3_example:/home/mudit/ros2_ws/install/rover_teleop:/home/mudit/ros2_ws/install/rover_motor_controller:/home/mudit/ros2_rover_ws/install/rover_teleop:/home/mudit/ros2_rover_ws/install/rover_motor_controller:/opt/ros/humble /home/mudit/.local/bin/cmake --build /home/mudit/bumperbot_ws/build/bumperbot_controller -- -j28 -l28
+[0.617s] Built target ament_cmake_python_symlink_bumperbot_controller
+[0.797s] running egg_info
+[0.797s] writing bumperbot_controller.egg-info/PKG-INFO
+[0.797s] writing dependency_links to bumperbot_controller.egg-info/dependency_links.txt
+[0.797s] writing top-level names to bumperbot_controller.egg-info/top_level.txt
+[0.799s] reading manifest file 'bumperbot_controller.egg-info/SOURCES.txt'
+[0.799s] writing manifest file 'bumperbot_controller.egg-info/SOURCES.txt'
+[0.814s] Built target ament_cmake_python_build_bumperbot_controller_egg
+[0.821s] Invoked command in '/home/mudit/bumperbot_ws/build/bumperbot_controller' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mudit/bumperbot_ws/install/bumperbot_world:/home/mudit/bumperbot_ws/install/bumperbot_py_examples:/home/mudit/turtlebot3_ws/install/turtlebot3_teleop:/home/mudit/turtlebot3_ws/install/turtlebot3_example:/home/mudit/ros2_ws/install/rover_teleop:/home/mudit/ros2_ws/install/rover_motor_controller:/home/mudit/ros2_rover_ws/install/rover_teleop:/home/mudit/ros2_rover_ws/install/rover_motor_controller:/opt/ros/humble /home/mudit/.local/bin/cmake --build /home/mudit/bumperbot_ws/build/bumperbot_controller -- -j28 -l28
+[0.823s] Invoking command in '/home/mudit/bumperbot_ws/build/bumperbot_controller': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mudit/bumperbot_ws/install/bumperbot_world:/home/mudit/bumperbot_ws/install/bumperbot_py_examples:/home/mudit/turtlebot3_ws/install/turtlebot3_teleop:/home/mudit/turtlebot3_ws/install/turtlebot3_example:/home/mudit/ros2_ws/install/rover_teleop:/home/mudit/ros2_ws/install/rover_motor_controller:/home/mudit/ros2_rover_ws/install/rover_teleop:/home/mudit/ros2_rover_ws/install/rover_motor_controller:/opt/ros/humble /home/mudit/.local/bin/cmake --install /home/mudit/bumperbot_ws/build/bumperbot_controller
+[0.848s] -- Install configuration: ""
+[0.848s] -- Execute custom install script
+[0.848s] -- Up-to-date symlink: /home/mudit/bumperbot_ws/install/bumperbot_controller/share/bumperbot_controller/environment/pythonpath.sh
+[0.849s] -- Up-to-date symlink: /home/mudit/bumperbot_ws/install/bumperbot_controller/share/bumperbot_controller/environment/pythonpath.dsv
+[0.849s] -- Up-to-date symlink: /home/mudit/bumperbot_ws/install/bumperbot_controller/local/lib/python3.10/dist-packages/bumperbot_controller-0.0.0-py3.10.egg-info/PKG-INFO
+[0.849s] -- Up-to-date symlink: /home/mudit/bumperbot_ws/install/bumperbot_controller/local/lib/python3.10/dist-packages/bumperbot_controller-0.0.0-py3.10.egg-info/SOURCES.txt
+[0.849s] -- Up-to-date symlink: /home/mudit/bumperbot_ws/install/bumperbot_controller/local/lib/python3.10/dist-packages/bumperbot_controller-0.0.0-py3.10.egg-info/dependency_links.txt
+[0.849s] -- Up-to-date symlink: /home/mudit/bumperbot_ws/install/bumperbot_controller/local/lib/python3.10/dist-packages/bumperbot_controller-0.0.0-py3.10.egg-info/top_level.txt
+[0.849s] -- Up-to-date symlink: /home/mudit/bumperbot_ws/install/bumperbot_controller/local/lib/python3.10/dist-packages/bumperbot_controller/__init__.py
+[0.849s] -- Up-to-date symlink: /home/mudit/bumperbot_ws/install/bumperbot_controller/local/lib/python3.10/dist-packages/bumperbot_controller/simple_controller.py
+[0.849s] -- Up-to-date symlink: /home/mudit/bumperbot_ws/install/bumperbot_controller/share/bumperbot_controller/launch/controller.launch.py
+[0.850s] -- Up-to-date symlink: /home/mudit/bumperbot_ws/install/bumperbot_controller/share/bumperbot_controller/launch/joystick_teleop.launch.py
+[0.850s] -- Up-to-date symlink: /home/mudit/bumperbot_ws/install/bumperbot_controller/share/bumperbot_controller/config/bumperbot_controllers.yaml
+[0.850s] -- Up-to-date symlink: /home/mudit/bumperbot_ws/install/bumperbot_controller/share/bumperbot_controller/config/joy_config.yaml
+[0.850s] -- Up-to-date symlink: /home/mudit/bumperbot_ws/install/bumperbot_controller/share/bumperbot_controller/config/joy_teleop.yaml
+[0.850s] -- Up-to-date symlink: /home/mudit/bumperbot_ws/install/bumperbot_controller/lib/bumperbot_controller/simple_controller.py
+[0.850s] -- Up-to-date symlink: /home/mudit/bumperbot_ws/install/bumperbot_controller/share/ament_index/resource_index/package_run_dependencies/bumperbot_controller
+[0.850s] -- Up-to-date symlink: /home/mudit/bumperbot_ws/install/bumperbot_controller/share/ament_index/resource_index/parent_prefix_path/bumperbot_controller
+[0.850s] -- Up-to-date symlink: /home/mudit/bumperbot_ws/install/bumperbot_controller/share/bumperbot_controller/environment/ament_prefix_path.sh
+[0.850s] -- Up-to-date symlink: /home/mudit/bumperbot_ws/install/bumperbot_controller/share/bumperbot_controller/environment/ament_prefix_path.dsv
+[0.850s] -- Up-to-date symlink: /home/mudit/bumperbot_ws/install/bumperbot_controller/share/bumperbot_controller/environment/path.sh
+[0.850s] -- Up-to-date symlink: /home/mudit/bumperbot_ws/install/bumperbot_controller/share/bumperbot_controller/environment/path.dsv
+[0.850s] -- Up-to-date symlink: /home/mudit/bumperbot_ws/install/bumperbot_controller/share/bumperbot_controller/local_setup.bash
+[0.851s] -- Up-to-date symlink: /home/mudit/bumperbot_ws/install/bumperbot_controller/share/bumperbot_controller/local_setup.sh
+[0.851s] -- Up-to-date symlink: /home/mudit/bumperbot_ws/install/bumperbot_controller/share/bumperbot_controller/local_setup.zsh
+[0.851s] -- Up-to-date symlink: /home/mudit/bumperbot_ws/install/bumperbot_controller/share/bumperbot_controller/local_setup.dsv
+[0.851s] -- Symlinking: /home/mudit/bumperbot_ws/install/bumperbot_controller/share/bumperbot_controller/package.dsv
+[0.853s] -- Up-to-date symlink: /home/mudit/bumperbot_ws/install/bumperbot_controller/share/ament_index/resource_index/packages/bumperbot_controller
+[0.854s] -- Up-to-date symlink: /home/mudit/bumperbot_ws/install/bumperbot_controller/share/bumperbot_controller/cmake/bumperbot_controllerConfig.cmake
+[0.854s] -- Up-to-date symlink: /home/mudit/bumperbot_ws/install/bumperbot_controller/share/bumperbot_controller/cmake/bumperbot_controllerConfig-version.cmake
+[0.854s] -- Up-to-date symlink: /home/mudit/bumperbot_ws/install/bumperbot_controller/share/bumperbot_controller/package.xml
+[0.880s] Listing '/home/mudit/bumperbot_ws/install/bumperbot_controller/local/lib/python3.10/dist-packages/bumperbot_controller'...
+[0.888s] Invoked command in '/home/mudit/bumperbot_ws/build/bumperbot_controller' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/mudit/bumperbot_ws/install/bumperbot_world:/home/mudit/bumperbot_ws/install/bumperbot_py_examples:/home/mudit/turtlebot3_ws/install/turtlebot3_teleop:/home/mudit/turtlebot3_ws/install/turtlebot3_example:/home/mudit/ros2_ws/install/rover_teleop:/home/mudit/ros2_ws/install/rover_motor_controller:/home/mudit/ros2_rover_ws/install/rover_teleop:/home/mudit/ros2_rover_ws/install/rover_motor_controller:/opt/ros/humble /home/mudit/.local/bin/cmake --install /home/mudit/bumperbot_ws/build/bumperbot_controller

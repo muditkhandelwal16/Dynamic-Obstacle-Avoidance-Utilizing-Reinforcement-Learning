@@ -1,0 +1,15 @@
+/home/mudit/bumperbot_ws/src/install/bumperbot_navigation/share/ament_index/resource_index/package_run_dependencies/bumperbot_navigation
+/home/mudit/bumperbot_ws/src/install/bumperbot_navigation/share/ament_index/resource_index/parent_prefix_path/bumperbot_navigation
+/home/mudit/bumperbot_ws/src/install/bumperbot_navigation/share/bumperbot_navigation/environment/ament_prefix_path.sh
+/home/mudit/bumperbot_ws/src/install/bumperbot_navigation/share/bumperbot_navigation/environment/ament_prefix_path.dsv
+/home/mudit/bumperbot_ws/src/install/bumperbot_navigation/share/bumperbot_navigation/environment/path.sh
+/home/mudit/bumperbot_ws/src/install/bumperbot_navigation/share/bumperbot_navigation/environment/path.dsv
+/home/mudit/bumperbot_ws/src/install/bumperbot_navigation/share/bumperbot_navigation/local_setup.bash
+/home/mudit/bumperbot_ws/src/install/bumperbot_navigation/share/bumperbot_navigation/local_setup.sh
+/home/mudit/bumperbot_ws/src/install/bumperbot_navigation/share/bumperbot_navigation/local_setup.zsh
+/home/mudit/bumperbot_ws/src/install/bumperbot_navigation/share/bumperbot_navigation/local_setup.dsv
+/home/mudit/bumperbot_ws/src/install/bumperbot_navigation/share/bumperbot_navigation/package.dsv
+/home/mudit/bumperbot_ws/src/install/bumperbot_navigation/share/ament_index/resource_index/packages/bumperbot_navigation
+/home/mudit/bumperbot_ws/src/install/bumperbot_navigation/share/bumperbot_navigation/cmake/bumperbot_navigationConfig.cmake
+/home/mudit/bumperbot_ws/src/install/bumperbot_navigation/share/bumperbot_navigation/cmake/bumperbot_navigationConfig-version.cmake
+/home/mudit/bumperbot_ws/src/install/bumperbot_navigation/share/bumperbot_navigation/package.xml

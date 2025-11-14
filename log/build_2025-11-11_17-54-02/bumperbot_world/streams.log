@@ -1,0 +1,23 @@
+[0.478s] Invoking command in '/home/mudit/bumperbot_ws/build/bumperbot_world': PYTHONPATH=/home/mudit/bumperbot_ws/build/bumperbot_world/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mudit/bumperbot_ws/install/bumperbot_world/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/mudit/bumperbot_ws/build/bumperbot_world/build --no-deps symlink_data
+[0.647s] running develop
+[0.757s] running egg_info
+[0.757s] creating bumperbot_world.egg-info
+[0.757s] writing bumperbot_world.egg-info/PKG-INFO
+[0.758s] writing dependency_links to bumperbot_world.egg-info/dependency_links.txt
+[0.758s] writing entry points to bumperbot_world.egg-info/entry_points.txt
+[0.758s] writing requirements to bumperbot_world.egg-info/requires.txt
+[0.758s] writing top-level names to bumperbot_world.egg-info/top_level.txt
+[0.758s] writing manifest file 'bumperbot_world.egg-info/SOURCES.txt'
+[0.758s] reading manifest file 'bumperbot_world.egg-info/SOURCES.txt'
+[0.759s] writing manifest file 'bumperbot_world.egg-info/SOURCES.txt'
+[0.760s] running build_ext
+[0.760s] Creating /home/mudit/bumperbot_ws/install/bumperbot_world/lib/python3.10/site-packages/bumperbot-world.egg-link (link to .)
+[0.760s] 
+[0.760s] Installed /home/mudit/bumperbot_ws/build/bumperbot_world
+[0.760s] running symlink_data
+[0.760s] creating /home/mudit/bumperbot_ws/install/bumperbot_world/share/ament_index
+[0.760s] creating /home/mudit/bumperbot_ws/install/bumperbot_world/share/ament_index/resource_index
+[0.760s] creating /home/mudit/bumperbot_ws/install/bumperbot_world/share/ament_index/resource_index/packages
+[0.760s] symbolically linking /home/mudit/bumperbot_ws/build/bumperbot_world/resource/bumperbot_world -> /home/mudit/bumperbot_ws/install/bumperbot_world/share/ament_index/resource_index/packages
+[0.760s] symbolically linking /home/mudit/bumperbot_ws/build/bumperbot_world/package.xml -> /home/mudit/bumperbot_ws/install/bumperbot_world/share/bumperbot_world
+[0.777s] Invoked command in '/home/mudit/bumperbot_ws/build/bumperbot_world' returned '0': PYTHONPATH=/home/mudit/bumperbot_ws/build/bumperbot_world/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mudit/bumperbot_ws/install/bumperbot_world/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/mudit/bumperbot_ws/build/bumperbot_world/build --no-deps symlink_data
