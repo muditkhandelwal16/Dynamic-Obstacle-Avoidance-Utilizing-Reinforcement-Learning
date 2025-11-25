@@ -12,4 +12,9 @@
 	colcon build --symlink-install
 	. install/setup.bash
 ```
+## Run 
+```
+	ros2 launch bumperbot_bringup simulated_robot.launch.py world_name:=small_house
 
+```
+and see if it works
