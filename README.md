@@ -3,8 +3,8 @@
   ROS2 distro: Humble  
   Gazebo classic: Gazebo multi-robot simulator, version 11.10.2  
   Turtlebot3  
-## Run the following commands
+## Clone the repo Run the following commands
 ```
-	sup
+	
 ```
 
