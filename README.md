@@ -5,7 +5,7 @@
   Turtlebot3  
 ## Clone the repo using this command exactly
 ```
-	git clone https://github.com/muditkhandelwal16/Dynamic-Obstacle-Avoidance-Utilizing-Reinforcement-Learning.git turtlebot3_ws
+	git clone https://github.com/muditkhandelwal16/Dynamic-Obstacle-Avoidance-Utilizing-Reinforcement-Learning.git bumperbot_ws
 ```
 ## Build and run
 ```
